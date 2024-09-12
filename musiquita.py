@@ -7,7 +7,7 @@ from pydub import AudioSegment
 import os
 
 # Enlace del video de YouTube
-url = 'https://www.youtube.com/watch?v=yNycw9zhO98&ab_channel=Monolink'
+url = ''
 
 # Configuración de yt-dlp para descargar solo el audio
 ydl_opts = {
